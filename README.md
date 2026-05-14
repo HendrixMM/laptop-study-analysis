@@ -1,6 +1,7 @@
 # Laptop Brand Preferences: Business vs Engineering Students
 
-Python data-analysis project (ENGR 371, Concordia University, Fall 2025).
+Python data-analysis project for ENGR 371: Intro to Probability and Statistics
+for Engineers (Concordia University, Fall 2025).
 Observational study comparing laptop brand usage between Business (JMSB) and
 Engineering (Hall Building) students.
 
